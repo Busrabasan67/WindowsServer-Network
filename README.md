@@ -16,7 +16,7 @@ Rapor, sanal makine kurulumu, etki alanı yapılandırması, DNS ve DHCP servisl
 - 📤 DHCP sunucu kurulumu  
 - 📁 FTP sunucusu kurulumu ve izinler  
 - 🌍 IIS web sunucusu kurulumu ve site yayınlama  
-- 📧 Mail sunucusu kurulumu (isteğe bağlı)
+- 📧 Mail sunucusu kurulumu 
 
 ---
 
