@@ -22,10 +22,8 @@ Rapor, sanal makine kurulumu, etki alanı yapılandırması, DNS ve DHCP servisl
 
 ## 👤 Hazırlayan  
 
-**Büşra Basan**  
-🎓 Düzce Üniversitesi – İngilizce Bilgisayar Mühendisliği  
-📚 Ders: *Bilgisayar Ağları II*  
-🌐 [GitHub Profilim](https://github.com/BusraBasan)
+**Büşra Basan**   
+🌐 [GitHub Profilim](https://github.com/Busrabasan67)
 
 ---
 
